@@ -1,4 +1,4 @@
 # first-webdev
 First Repo
 <br>
-By Dilpreet Sandhu
+By Dilpreet Singh Sandhu
